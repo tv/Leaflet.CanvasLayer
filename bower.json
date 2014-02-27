@@ -1,0 +1,22 @@
+{
+  "name": "Leaflet.CanvasLayer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tv/Leaflet.CanvasLayer",
+  "authors": [
+    "Tuomnas Vähänen <tuomas.vahanen@gmail.com>"
+  ],
+  "description": "Leaflet fullmap canvas skeleton",
+  "main": "leaflet_canvas_layer.js",
+  "keywords": [
+    "leaflet"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
